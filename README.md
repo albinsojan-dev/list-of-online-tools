@@ -17,6 +17,7 @@ These resources are great for researchers, pentesters, and security enthusiasts.
 | [https://haveibeenpwned.com](https://haveibeenpwned.com) | Checks if an email address has been exposed in a data breach. |
 | [https://metadefender.com](https://metadefender.com) | Free online file scanning and malware analysis platform designed for researchers, IT administrators, and security-conscious individuals. |
 | [https://gtfobins.github.io](https://gtfobins.github.io) | Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems. |
+| [https://revshells.com](https://revshells.com) | It simplifies creating listener code by allowing users to input a target IP address and port number, then producing customizable reverse shell payloads |
 
 ## Usage
 - Fork this repo and contribute by adding more tools via pull requests.
