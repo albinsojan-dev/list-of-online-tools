@@ -19,6 +19,7 @@ These resources are great for researchers, pentesters, and security enthusiasts.
 | [https://gtfobins.github.io](https://gtfobins.github.io) | Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems. |
 | [https://revshells.com](https://revshells.com) | It simplifies creating listener code by allowing users to input a target IP address and port number, then producing customizable reverse shell payloads |
 | [https://swisskyrepo.github.io/InternalAllTheThings](https://swisskyrepo.github.io/InternalAllTheThings) | Internal All The Things," focused on Active Directory and internal penetration testing (pentest) cheatsheets |
+| [https://explainshell.com](https://explainshell.com) | Unix/Linux shell commands. to break down each argument, option, and flag, matching them directly to their official help text descriptions. This makes it easier to understand complex one-liners without digging through manual pages yourself. |
 
 ## Usage
 - Fork this repo and contribute by adding more tools via pull requests.
